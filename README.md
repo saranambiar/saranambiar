@@ -1,24 +1,16 @@
-<div align="center">
-
 # Hi, I'm Sara 👋
 
-### Co-Founder @ <a href="https://www.trymirage.app/">Mirage</a> • Agentic Systems • AI Products • Translational AI Research
-Building Mirage - AI agents that let people completely redesign the websites they use every day around their own workflows.
+### Co-Founder @ [Mirage](https://www.trymirage.app/) • Building Agentic Systems, AI Products & Translational AI Research
 
-Previously led development of **AI NETRA** at Froncort.AI and currently researching AI systems for post-operative patient monitoring at IIIT Hyderabad.
-
-<br>
-
-<a href="https://www.trymirage.app/">Mirage</a> • <a href="https://www.linkedin.com/in/sara-nambiar/">LinkedIn</a> • <a href="https://x.com/sara_nambiar">X</a>
-
-</div>
+Building Mirage. Previously led AI NETRA at Froncort.AI. Currently researching AI systems for post-operative monitoring at IIIT Hyderabad.
 
 ---
 
 ## 🌊 What I'm Building
 
 The internet was never yours.
-Every website you use — YouTube, Gmail, LinkedIn, Reddit — is designed once and shipped to everyone.
+
+Every website you use - YouTube, Gmail, LinkedIn, Reddit - is designed once and shipped to everyone.
 We think that's broken.
 
 At **Mirage**, we're building AI agents that let anyone describe how a website should work for them, and have it rebuilt around those preferences.
@@ -43,22 +35,25 @@ Software that adapts itself to the user.
 
 I'm a 20-year-old Computer Engineering student who loves building AI systems that actually work.
 
-Most of my work lives at the intersection of agentic systems, AI products, human-computer interaction, healthcare, and translational AI research.
+My interests sit somewhere between agentic systems, AI products, healthcare, and translational AI research.
 
-I'm particularly interested in taking emerging AI capabilities and turning them into products that people genuinely find useful.
+I'm fascinated by moments when a new technology stops being a research idea and becomes something people can't imagine living without.
 
-Most of my time is spent building, shipping, and experimenting on the frontier of AI — exploring how coding agents, multimodal models, and adaptive interfaces might redefine the way we interact with software.
+Most of my time is spent building, shipping, and experimenting on the frontier of AI - exploring how coding agents, multimodal models, and adaptive interfaces might redefine the way we interact with software.
+
 ---
 
-## 🔬 Previously
-
-### Froncort.AI
+## 🚀 Froncort.AI
 
 I joined Froncort at 19 and somehow went from AI Engineer Intern → Lead AI Engineer → Product Manager within a year.
 
-The highlight was leading the initial development of AI NETRA, a public-health AI platform focused on tuberculosis eradication in India.
+The highlight was leading the initial development of **AI NETRA**, a public-health AI platform focused on tuberculosis eradication in India.
 
-Working alongside clinicians, public-health experts, and government stakeholders taught me that the most important part of AI isn't intelligence — it's trust and explainability. Most of what I learned about product thinking, ownership, and building systems people actually depend on came from my time there.
+Working alongside clinicians, public-health experts, and government stakeholders taught me that the most important part of AI isn't intelligence — it's trust. Most of what I learned about product thinking, ownership, and building systems people actually depend on came from my time there.
+
+---
+
+## 🔬 Research
 
 ### IIIT Hyderabad
 
@@ -87,7 +82,6 @@ These days, building AI products has pushed me across the stack — from models 
 ### Daily Drivers
 
 `Cursor ⭐` `Claude Code` `Codex`
-The tools I spend most of my time in. Cursor remains my personal favorite.
 
 ---
 
@@ -97,30 +91,32 @@ The tools I spend most of my time in. Cursor remains my personal favorite.
 
 ---
 
-### Frameworks & SDKs
+### Agentic Frameworks & SDKs
 
-`LangChain` `LangGraph` `OpenAI Agents SDK` `Google ADK` `Cursor SDK`
+`LangChain` `LangGraph`
+`OpenAI Agents SDK` `Google ADK` `Cursor SDK`
 
 ---
 
 ### Machine Learning
 
-`PyTorch` `Transformers` `Hugging Face` `CNNs` `Vision Transformers` `Transfer Learning` `Multimodal AI` 
-`Computer Vision` `GANs` `Model Evaluation` `Scikit-Learn` `OpenCV` `NumPy` `Pandas`
+`PyTorch` `Hugging Face` `CNNs` `Vision Transformers` `Transfer Learning` `Multimodal AI`
+`Computer Vision` `Synthetic Data Generation` `GANs` `Distillation Learning`
+`Model Evaluation` `Scikit-Learn` `OpenCV` `NumPy` `Pandas`
 
 ---
 
 ### Infrastructure
 
-`Docker` `AWS` `Vercel`
+`Docker` `AWS`
 `PostgreSQL` `MongoDB` `Pinecone`
 
 ---
 
 ## 🏆 A Few Things I'm Proud Of
 
-* Winner — Smart India Hackathon 2024
-* 1st Place — IIT Bombay TechFest
+* Winner - Smart India Hackathon 2024
+* 1st Place - IIT Bombay TechFest
 * Published at ImageCLEF 2025
 * YC Startup School 
 
@@ -128,12 +124,10 @@ The tools I spend most of my time in. Cursor remains my personal favorite.
 
 ## 📫 Reach Out
 
-Always happy to chat about AI, startups, ambitious products, and weird ideas.
+Always open to new ideas, feel free to reach out :)
 
 **Email:** [nambiar.sara@gmail.com](mailto:nambiar.sara@gmail.com)
 
 **LinkedIn:** https://www.linkedin.com/in/sara-nambiar/
 
 **X:** https://x.com/sara_nambiar
-
-</div>
